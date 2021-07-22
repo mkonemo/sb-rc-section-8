@@ -1,2 +1,2 @@
-# sb-rc-section-8
+# react-codesandbox
 Created with CodeSandbox
